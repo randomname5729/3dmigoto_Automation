@@ -5,6 +5,7 @@
 群聊功能：学习与交流、资源分享、寻求帮助、bug反馈、寻求合作
 
 发布地址：
+
 1、https://github.com/randomname5729/3dmigoto_Automation/
 
 2、https://wwz.lanzouo.com/b048xr4fc 密码:7lzx
