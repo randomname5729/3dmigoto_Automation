@@ -3,4 +3,5 @@
 声明：该工具仅供学习，不得它用。
 发布地址：
 1、https://github.com/randomname5729/3dmigoto_Automation/
+
 2、https://wwz.lanzouo.com/b048xr4fc 密码:7lzx
